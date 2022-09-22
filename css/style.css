@@ -10,6 +10,10 @@ body {
   place-items: center;
   background: rgb(84, 68, 177);
 }
+img {
+  width: 100vw;
+  
+}
 .wrapper {
   height: 100px;
   width: 360px;
